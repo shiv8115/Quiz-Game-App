@@ -14,3 +14,5 @@ JavaScript - Array Functions (splice, map, sort), Local Storage, Fetch API
 ES6 JavaScript Features - Arrow Functions, the Spread Operator, Const and Let, Template Literals
 
 CSS - Flexbox, Animtations, and REM units
+
+Use fundamental HTML, CSS, and JavaScript skills to build a quiz application. This application will be able to load questions from a 3rd party API, track and display high scores
